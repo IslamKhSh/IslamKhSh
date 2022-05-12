@@ -10,7 +10,7 @@
 ### 📌 About Me 
 - 🔭 I’m currently working in [Robusta Studio](https://robustastudio.com/)
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1yEJJI9HL2YlsA-CVALb2pBg1gLB6J6Qw/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1dQz0CmbRPTDqRMEvrgXccZ-5rMd2nPQd/view?usp=sharing)
 
 
 ### 📬 Connect with me
